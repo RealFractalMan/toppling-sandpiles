@@ -1,0 +1,25 @@
+{
+    "filenom": "IcosahedronSurface_Top5Drops",
+    "title": "Icosahedron Surface (5-drops)",
+    "pileType": "icosahedronsurface",
+    "topple": "default",
+    "numRows": 21,
+    "grains": 14580,
+    "initialSeed": 0,
+    "seedType": "uniform",
+    "seedAttributes": {
+        "seed1": 0,
+        "seed2": 1
+    },
+    "drawBounded": true,
+    "imagePixelWidth": 50,
+    "colors": ["#f5edce", "#89c4e1", "#58287f"],
+    "backgroundColor": "#ffffff",
+    "dropSpots": [
+        {"x": 0, "y": 20, "face": 1, "mult": 0.2},
+        {"x": 0, "y": 20, "face": 5, "mult": 0.2},
+        {"x": 0, "y": 20, "face": 9, "mult": 0.2},
+        {"x": 0, "y": 20, "face": 13, "mult": 0.2},
+        {"x": 0, "y": 20, "face": 17, "mult": 0.2}
+    ]
+}

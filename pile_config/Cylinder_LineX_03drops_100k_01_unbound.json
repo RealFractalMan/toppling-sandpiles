@@ -1,0 +1,17 @@
+{
+    "filenom": "Cylinder_LineX_03drops_100k_01_unbound",
+    "title": "Cylinder Surface Toppling Sandpile (3-drops, 100k grains)",
+    "xMax": 291,
+    "yMax": 201,
+    "grains": 100000,
+    "drawBounded": false,
+    "imagePixelWidth": 8,
+    "tkinterPixelWidth": 4,
+    "colors": ["#CAF0F8", "#00B4D8", "#90E0EF", "#03045E"],
+    "backgroundColor": "#FFFFFF",
+    "dropSpots": [
+        {"x": 85, "y": 100, "mult": 0.3333333333333333},
+        {"x": 145, "y": 100, "mult": 0.3333333333333333},
+        {"x": 205, "y": 100, "mult": 0.3333333333333333}
+    ]
+}

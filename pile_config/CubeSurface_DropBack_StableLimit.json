@@ -1,0 +1,23 @@
+{
+    "filenom": "CubeSurface_DropBack_StableLimit",
+    "title": "Sandpile Cube Surfce (Drop Back)",
+    "pileType": "cubesurface",
+    "topple": "von_neumann",
+    "xMax": 87,
+    "yMax": 87,
+    "zMax": 87,
+    "grains": 104599,
+    "initialSeed": 0,
+    "seedType": "uniform",
+    "seedAttributes": {
+        "seed1": 0,
+        "seed2": 0
+    },
+    "drawBounded": true,
+    "imagePixelWidth": 20,
+    "colors": ["#CAF0F8", "#00B4D8", "#90E0EF", "#03045E"],
+    "backgroundColor": "#ffffff",
+    "dropSpots": [
+        {"x": 43, "y": 43, "face": "back", "mult": 1.0}
+    ]
+}

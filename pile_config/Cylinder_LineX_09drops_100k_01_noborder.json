@@ -1,0 +1,18 @@
+{
+    "filenom": "Cylinder_LineX_09drops_100k_01_noborder",
+    "title": "Cylinder Surface Toppling Sandpile (9-drops, 100k grains)",
+    "pileType": "cylinder",
+    "xMax": 180,
+    "yMax": 45,
+    "grains": 100000,
+    "imagePixelWidth": 8,
+    "tkinterPixelWidth": 4,
+    "colors": ["#CAF0F8", "#00B4D8", "#90E0EF", "#03045E"],
+    "dropType": "line_x",
+    "dropParam": {
+        "dropSpotsOn": 1,
+        "dropSpotsOff": 19,
+        "dropSpotShift": 10
+    },
+    "backgroundColor": "#FFFFFF"
+}
